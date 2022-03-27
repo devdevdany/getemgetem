@@ -1,0 +1,19 @@
+{
+  "name": "getemgetem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devdevdany/getemgetem.git"
+  },
+  "author": "Dany Reyna <luisd.reyna@outlook.com> (https://devdevdany.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devdevdany/getemgetem/issues"
+  },
+  "homepage": "https://github.com/devdevdany/getemgetem#readme"
+}
